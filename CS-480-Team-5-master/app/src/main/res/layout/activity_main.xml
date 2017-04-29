@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/builderButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:text="Schedule Builder"
+        android:textStyle="bold"
+        android:width="200dp"
+        android:onClick="scheduleBuilderClicked"
+        android:background="@drawable/border"
+        android:textColor="@color/colorbg"
+
+        android:layout_marginTop="80dp">
+    </Button>
+
+    <Button
+
+        android:id="@+id/classListButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:text="Class List"
+        android:textStyle="bold"
+        android:width="200dp"
+        android:onClick="classListClicked"
+        android:background="@drawable/border"
+        android:textColor="@color/colorbg">
+    </Button>
+
+
+
+    <Button
+        android:id="@+id/campusMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:text="Campus Map"
+        android:textStyle="bold"
+        android:width="200dp"
+        android:onClick="campusMapClicked"
+        android:background="@drawable/border"
+        android:textColor="@color/colorbg">
+    </Button>
+
+
+
+</LinearLayout>
+

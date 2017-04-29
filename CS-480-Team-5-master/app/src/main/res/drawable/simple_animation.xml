@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/selected" android:oneshot="false">
+  <item android:drawable="@drawable/thinking" android:duration="150" />
+  <item android:drawable="@drawable/thinking1" android:duration="150" />
+  <item android:drawable="@drawable/thinking2" android:duration="150" />
+  <item android:drawable="@drawable/thinking3" android:duration="150" />
+  <item android:drawable="@drawable/thinking4" android:duration="150" />
+  <item android:drawable="@drawable/thinking5" android:duration="150" />
+  <item android:drawable="@drawable/thinking6" android:duration="150" />
+  <item android:drawable="@drawable/thinking7" android:duration="150" />
+  <item android:drawable="@drawable/thinking8" android:duration="150" />
+  <item android:drawable="@drawable/thinking9" android:duration="150" />
+  <item android:drawable="@drawable/thinking10" android:duration="150" />
+  <item android:drawable="@drawable/thinking11" android:duration="150" />
+  <item android:drawable="@drawable/thinking12" android:duration="150" />
+  <item android:drawable="@drawable/thinking13" android:duration="150" />
+  <item android:drawable="@drawable/thinking14" android:duration="150" />
+  <item android:drawable="@drawable/thinking15" android:duration="150" />
+  <item android:drawable="@drawable/thinking16" android:duration="150" />
+  <item android:drawable="@drawable/thinking17" android:duration="150" />
+
+</animation-list>
